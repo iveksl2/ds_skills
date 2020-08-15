@@ -2,16 +2,16 @@ Useful DS Skills
 
 Fundamentals:
     
-![pipeline](./images/hadley_wickham_pipeline.png)  ![ds_venn_diagram](./images/ohio_state_ds_venn_diagram.png)
+![ds_venn_diagram](./images/ds_venn_diagram.png) ![pipeline](./images/hadley_wickham_pipeline.png)  
 
-* Mathematics
-* Software Engineering
+* [Mathematics & Statistics](Mathematics)
+* [Software Engineering](Software_Engineering)
 * Domain Knowledge
 * Pipeline
     * Import
     * Tidy
     * Transform
-    * Visualize
+    * [Visualize](./visualize)
     * Model
     * Communicate
     
