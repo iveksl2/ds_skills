@@ -13,5 +13,15 @@ Fundamentals:
     * Transform
     * [Visualize](./visualize)
     * Model
-    * Communicate
+    * [Communicate](./communicate)
     
+Advanced:
+    * Bayesian Statistics
+    * Optimization
+    * [Time Series](./time_series)
+    * NLP
+    * Reinforcement Learning  
+    * Deep Learning 
+        * Image
+
+
