@@ -1,4 +1,13 @@
 
-Language Fatures:
-    [list comprehension](https://www.youtube.com/watch?v=belS2Ek4-ow)
+[Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)
 
+Language Fatures:
+    Python: 
+        [list comprehension](https://www.youtube.com/watch?v=belS2Ek4-ow)
+
+
+Readibility:
+    Python:
+        [Pep8](https://realpython.com/python-pep8/#code-layout)
+    R:
+        [tidyverse](https://style.tidyverse.org/)
