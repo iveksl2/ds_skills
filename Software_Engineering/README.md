@@ -7,7 +7,9 @@ Language Fatures:
 
 
 Readibility:
+    Use a style guide:
     Python:
         [Pep8](https://realpython.com/python-pep8/#code-layout)
     R:
         [tidyverse](https://style.tidyverse.org/)
+
