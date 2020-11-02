@@ -22,6 +22,6 @@ Advanced
 * NLP
 * Reinforcement Learning  
 * Deep Learning 
-        * Image
+    * Image
 
 
