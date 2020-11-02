@@ -14,14 +14,14 @@ Fundamentals:
     * [Visualize](./visualize)
     * Model
     * [Communicate](./communicate)
-    
-Advanced:
-    * Bayesian Statistics
-    * Optimization
-    * [Time Series](./time_series)
-    * NLP
-    * Reinforcement Learning  
-    * Deep Learning 
+ 
+Advanced
+* Bayesian Statistics
+* Optimization
+* [Time Series](./time_series)
+* NLP
+* Reinforcement Learning  
+* Deep Learning 
         * Image
 
 
