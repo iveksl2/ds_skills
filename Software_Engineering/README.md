@@ -1,3 +1,4 @@
+[Design Patterns](https://refactoring.guru/design-patterns)
 
 [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)
 
