@@ -9,6 +9,7 @@ Language Fatures:
         Method Chaining
                 * [The Unreasonable Effectiveness of Method Chaining in Pandas](https://towardsdatascience.com/the-unreasonable-effectiveness-of-method-chaining-in-pandas-15c2109e3c69)
                 * [Tom Augspurger method chaining](https://tomaugspurger.github.io/method-chaining)
+                
 
 Readibility:
     Use a style guide:
@@ -17,3 +18,11 @@ Readibility:
     R:
         [tidyverse](https://style.tidyverse.org/)
 
+Debugging:
+  Python:
+    [How to read Python Stack Traces Video](https://www.youtube.com/watch?v=3p3p6kp39to)
+    [Reading Python tracebacks video](https://www.youtube.com/watch?v=g9O9j34Vxww)
+        * Start from bottom up : )
+        
+    [Understanding the Python Traceback](https://realpython.com/python-traceback/)
+  R:

@@ -23,5 +23,5 @@ Advanced
 * Reinforcement Learning  
 * Deep Learning 
     * Image
-
+* Generative Models
 
