@@ -7,6 +7,7 @@
 
 Python:
         [80 Python plot examples with code](https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step)
+        [Annotate Matplotlib Plots](https://jakevdp.github.io/PythonDataScienceHandbook/04.09-text-and-annotation.html)
 Colors:
     * [Color Brewer](https://colorbrewer2.org/)
     * Python:
