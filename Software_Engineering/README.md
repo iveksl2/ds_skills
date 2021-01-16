@@ -1,3 +1,5 @@
+
+
 [Design Patterns](https://refactoring.guru/design-patterns)
 
 [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)
@@ -12,6 +14,7 @@ Language Fatures:
                 
 
 Readibility:
+    [How do you write readable code?: 13 Principles - Peter Hurford](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
     Use a style guide:
     Python:
         [Pep8](https://realpython.com/python-pep8/#code-layout)
