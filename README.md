@@ -1,15 +1,15 @@
-Useful DS Skills
+
+DS Definition              |  Pipeline
+:-------------------------:|:-------------------------:
+![ds_venn_diagram](./images/ds_venn_diagram.png)  |  ![pipeline](./images/hadley_wickham_pipeline.png)  
 
 Fundamentals:
-    
-![ds_venn_diagram](./images/ds_venn_diagram.png) ![pipeline](./images/hadley_wickham_pipeline.png)  
-
 * [Mathematics & Statistics](Mathematics)
 * [Software Engineering](Software_Engineering)
 * Domain Knowledge
 * Pipeline
     * Import
-    * Tidy
+    * [Tidy](./tidy_and_prep)
     * Transform
     * [Visualize](./visualize)
     * Model
