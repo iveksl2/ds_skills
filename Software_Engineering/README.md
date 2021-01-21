@@ -1,8 +1,4 @@
 
-
-OOP: 
-  * [Design Patterns](https://refactoring.guru/design-patterns)
-
 Language Fatures:
   * Python: 
     * [list comprehension](https://www.youtube.com/watch?v=belS2Ek4-ow)
