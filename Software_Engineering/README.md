@@ -1,4 +1,6 @@
-
+### Commandline & Bash
+        * [The Art of Command Line - Josh Levy](https://github.com/jlevy/the-art-of-command-line#basics)
+        * [Data Science at the Command Line - Jeroen Janssens](https://www.datascienceatthecommandline.com/) 
 
 [Design Patterns](https://refactoring.guru/design-patterns)
 
