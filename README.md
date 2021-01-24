@@ -19,7 +19,7 @@ Advanced
 * Bayesian Statistics
 * Optimization
 * [Time Series](./time_series)
-* NLP
+* [NLP](./nlp)
 * Reinforcement Learning  
 * Deep Learning 
     * Image
