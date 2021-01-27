@@ -1,6 +1,8 @@
 
-[General Data Visualization Catalogue](https://datavizcatalogue.com/)
-
+Gallery:
+  * [General Data Visualization Catalogue](https://datavizcatalogue.com/)
+  * [The R Graph Gallery](https://www.r-graph-gallery.com/)
+  * [The Python Graph Gallery](https://python-graph-gallery.com/)
 
 Python:
   * Matplotlib
@@ -10,11 +12,15 @@ Python:
   * Plotly
     * [Visualizing with Plotly.Express Comprehensive guide](https://towardsdatascience.com/visualization-with-plotly-express-comprehensive-guide-eb5ee4b50b57)
     * [Plotly accepts wide dataframes](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
+    
 
 Colors Schemes:
+  # TODO: think about merging
   * [Color Brewer](https://colorbrewer2.org/)
   * Python:
     * [W3S color palette](https://www.w3schools.com/colors/colors_palettes.asp)
     * [colorlover](https://github.com/jackparmer/colorlover)
+    * Plotly
+      * [Plotly Built In Continuous Color Scales](https://plotly.com/python/builtin-colorscales/)
   * R: 
         
