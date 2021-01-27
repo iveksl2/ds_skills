@@ -15,7 +15,6 @@ Python:
     
 
 Colors Schemes:
-  # TODO: think about merging
   * [Color Brewer](https://colorbrewer2.org/)
   * Python:
     * [W3S color palette](https://www.w3schools.com/colors/colors_palettes.asp)
