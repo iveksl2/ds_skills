@@ -1,4 +1,4 @@
-![Isaac_Newton_Quote](./images/Isaac_Newton_Quote.png)  
+<img src="./images/Isaac_Newton_Quote.png" alt="drawing" width="350" height="210"/>
 
 DS Definition              |  Pipeline
 :-------------------------:|:-------------------------:
