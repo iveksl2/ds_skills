@@ -1,8 +1,9 @@
 
-**Gallery & Principles**:
+**Galleries & Principles**:
   * [Ten Simple Rules for Better Figures - Nicolas Rougier et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833_)
   * [from Data to Viz](https://www.data-to-viz.com/)
     * [The R Graph Gallery](https://www.r-graph-gallery.com/)
+      * [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
     * [The Python Graph Gallery](https://python-graph-gallery.com/)
 
 **Python**:
@@ -10,9 +11,16 @@
     * [Cheatsheet - Nicholas Rougier](https://github.com/rougier/matplotlib-cheatsheet)
     * [80 Python plot examples with code - kaggle notebook](https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step)
     * [Annotate Matplotlib Plots](https://jakevdp.github.io/PythonDataScienceHandbook/04.09-text-and-annotation.html)
-  * Plotly
+  * [Plotly](https://medium.com/plotly/introducing-plotly-express-808df010143d)
+    * [Tutorial / gallery](https://plotly.com/python/plotly-express/)
     * [Visualizing with Plotly.Express Comprehensive guide](https://towardsdatascience.com/visualization-with-plotly-express-comprehensive-guide-eb5ee4b50b57)
     * [Plotly accepts wide dataframes](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
+ 
+**R**:
+  * [ggplot2](https://github.com/tidyverse/ggplot2)
+    * [data visualization - R for datascience](https://r4ds.had.co.nz/data-visualisation.html)
+    * [Graphics for communication](https://r4ds.had.co.nz/graphics-for-communication.html)
+   
     
 
 **Colors Schemes**:
