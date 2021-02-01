@@ -1,5 +1,4 @@
-
-**Galleries & Principles**:
+library(RColorBrewer)**Galleries & Principles**:
   * [Ten Simple Rules for Better Figures - Nicolas Rougier et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833_)
   * [from Data to Viz](https://www.data-to-viz.com/)
     * [The R Graph Gallery](https://www.r-graph-gallery.com/)
@@ -18,11 +17,10 @@
  
 **R**:
   * [ggplot2](https://github.com/tidyverse/ggplot2)
+    * [ggplot2 functionality](https://www.r-graph-gallery.com/ggplot2-package.html)
     * [data visualization - R for datascience](https://r4ds.had.co.nz/data-visualisation.html)
     * [Graphics for communication](https://r4ds.had.co.nz/graphics-for-communication.html)
    
-    
-
 **Colors Schemes**:
   * [Color Brewer](https://colorbrewer2.org/)
   * Python:
@@ -31,4 +29,12 @@
     * Plotly
       * [Plotly Built In Continuous Color Scales](https://plotly.com/python/builtin-colorscales/)
   * R: 
-        
+    * [Plotting and color in R - Roger Peng](https://bookdown.org/rdpeng/exdata/plotting-and-color-in-r.html#colors-1-2-and-3)
+    * [R color Brewer palettes](https://www.r-graph-gallery.com/38-rcolorbrewers-palettes.html) 
+    * [Dealing with colors in ggplot2](https://www.r-graph-gallery.com/ggplot2-color.html)
+    * [Use color to your advantage - Kieran Healy](https://socviz.co/refineplots.html#use-color-to-your-advantage)    
+
+**Maps -> Choropleths**
+  * Python
+  * R
+    * [Draw Maps - Kieran Healy](https://socviz.co/maps.html#maps)
