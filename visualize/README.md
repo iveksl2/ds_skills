@@ -1,4 +1,4 @@
-library(RColorBrewer)**Galleries & Principles**:
+**Galleries & Principles**:
   * [Ten Simple Rules for Better Figures - Nicolas Rougier et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833_)
   * [from Data to Viz](https://www.data-to-viz.com/)
     * [The R Graph Gallery](https://www.r-graph-gallery.com/)
