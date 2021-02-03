@@ -1,5 +1,5 @@
 **Galleries & Principles**:
-  * [Ten Simple Rules for Better Figures - Nicolas Rougier et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833_)
+  * [Ten Simple Rules for Better Figures - Nicolas Rougier et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
   * [from Data to Viz](https://www.data-to-viz.com/)
     * [The R Graph Gallery](https://www.r-graph-gallery.com/)
       * [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
@@ -25,8 +25,6 @@
 **Colors Schemes**:
   * [Color Brewer](https://colorbrewer2.org/)
   * Python:
-    * [W3S color palette](https://www.w3schools.com/colors/colors_palettes.asp)
-    * [colorlover](https://github.com/jackparmer/colorlover)
     * Plotly
       * [Plotly Built In Continuous Color Scales](https://plotly.com/python/builtin-colorscales/)
   * R 
