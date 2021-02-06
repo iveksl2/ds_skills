@@ -4,6 +4,7 @@
     * [The R Graph Gallery](https://www.r-graph-gallery.com/)
       * [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
     * [The Python Graph Gallery](https://python-graph-gallery.com/)
+      * [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
 
 **Plotting Libraries**
   * *Python*
