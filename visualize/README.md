@@ -5,6 +5,7 @@
       * [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
     * [The Python Graph Gallery](https://python-graph-gallery.com/)
       * [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
+      * [matplotlib Gallery](https://matplotlib.org/3.1.1/gallery/index.html)
 
 **Plotting Libraries**
   * *Python*
@@ -25,6 +26,7 @@
    
 **Colors Schemes**:
   * [Color Brewer](https://colorbrewer2.org/)
+  * [Colors HEX](https://www.w3schools.com/Colors/colors_hexadecimal.asp)
   * Python:
     * Plotly
       * [Plotly Built In Continuous Color Scales](https://plotly.com/python/builtin-colorscales/)
