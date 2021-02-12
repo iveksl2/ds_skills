@@ -38,5 +38,6 @@
 
 **Maps -> Choropleths**
   * Python
+    * [Plotly - Choropleth Maps](https://plotly.com/python/choropleth-maps/)
   * R
     * [Draw Maps - Kieran Healy](https://socviz.co/maps.html#maps)
