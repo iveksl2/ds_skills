@@ -14,6 +14,7 @@
       * [80 Python plot examples with code - kaggle notebook](https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step)
       * [Annotate Matplotlib Plots](https://jakevdp.github.io/PythonDataScienceHandbook/04.09-text-and-annotation.html)
       * [Beaufiul bar plots with matplotlib](https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html)
+      * [Customizing Ticks - Jake Venderplas](https://jakevdp.github.io/PythonDataScienceHandbook/04.10-customizing-ticks.html#Reducing-or-Increasing-the-Number-of-Ticks)
     * [Plotly](https://medium.com/plotly/introducing-plotly-express-808df010143d)
       * [Tutorial / gallery](https://plotly.com/python/plotly-express/)
       * [Visualizing with Plotly.Express Comprehensive guide](https://towardsdatascience.com/visualization-with-plotly-express-comprehensive-guide-eb5ee4b50b57)
