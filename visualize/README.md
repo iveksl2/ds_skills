@@ -15,6 +15,7 @@
       * [Cheatsheet - Nicholas Rougier](https://github.com/rougier/matplotlib-cheatsheet)
       * [Visualization with Matplotlib - Jake Venderplas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
       * [Beaufiul bar plots with matplotlib](https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html)
+      * [Matplotlib Styles](https://www.dunderdata.com/blog/view-all-available-matplotlib-styles)
     * [Plotly](https://medium.com/plotly/introducing-plotly-express-808df010143d)
       * [Tutorial / gallery](https://plotly.com/python/plotly-express/)
       * [Visualizing with Plotly.Express Comprehensive guide](https://towardsdatascience.com/visualization-with-plotly-express-comprehensive-guide-eb5ee4b50b57)
