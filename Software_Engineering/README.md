@@ -8,7 +8,7 @@ Readibility:
   * [How do you write readable code?: 13 Principles - Peter Hurford](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
   * Use a style guide:
     * Python:
-      * [Pep8](https://realpython.com/python-pep8/#code-layout)
+      * [How to write Python code with PEP8 - realpython](https://realpython.com/python-pep8/)
     * R:
       * [tidyverse](https://style.tidyverse.org/)
   * Method Chaining
