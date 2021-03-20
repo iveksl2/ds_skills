@@ -1,4 +1,6 @@
 
+[Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6)
+
 Language Fatures:
   * Python: 
     * [list comprehension](https://www.youtube.com/watch?v=belS2Ek4-ow)
