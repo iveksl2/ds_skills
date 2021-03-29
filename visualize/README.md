@@ -46,4 +46,4 @@
 
 **DataFrame Heatmaps**
   * Python
-    * [DataFrame Heaatmaps](Heatmaps.ipynb)
+    * [DataFrame Heatmaps](Heatmaps.ipynb)
