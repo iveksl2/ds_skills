@@ -5,7 +5,6 @@ Language Fatures:
     * [list comprehension](https://www.youtube.com/watch?v=belS2Ek4-ow)
     * [Using Python's Type Annotations](https://dev.to/dstarner/using-pythons-type-annotations-4cfe)
     * [Data Classes in Python 3.7+ (Guide)](https://realpython.com/python-data-classes/)
-      * [dataclass examples - Bruce H. Cottman](./dataclass_example.ipynb)
           
 Readibility:
   * [How do you write readable code?: 13 Principles - Peter Hurford](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
