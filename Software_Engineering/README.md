@@ -1,10 +1,10 @@
-
 [Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6)
 
 Language Fatures:
   * Python: 
     * [list comprehension](https://www.youtube.com/watch?v=belS2Ek4-ow)
     * [Using Python's Type Annotations](https://dev.to/dstarner/using-pythons-type-annotations-4cfe)
+    * [Data Classes in Python 3.7+ (Guide)](https://realpython.com/python-data-classes/)
           
 Readibility:
   * [How do you write readable code?: 13 Principles - Peter Hurford](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
