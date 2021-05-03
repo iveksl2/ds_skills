@@ -11,8 +11,8 @@
 
 **Plotting Libraries**
   * *Python*
-    * Matplotlib
-      * [matplotlib tutorial - Nicolas Rougier](https://github.com/rougier/matplotlib-tutorial)
+    * [Matplotlib](https://matplotlib.org/)
+      * [matplotlib tutorial - Nicolas Rougier](https://github.com/rougier/matplotlib-tutorial) & [matplotlib: plotting - Rougier, Muller, Varoquaux](https://scipy-lectures.org/intro/matplotlib/index.html)
       * [Cheatsheet - Nicolas Rougier](https://github.com/rougier/matplotlib-cheatsheet)
       * [Visualization with Matplotlib - Jake Venderplas](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
       * [Beaufiul bar plots with matplotlib](https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html)
