@@ -18,7 +18,7 @@ Fundamentals:
  
 Advanced
 * Bayesian Statistics
-* Optimization
+* [Optimization](./optimization)
 * [Time Series](./time_series)
 * [NLP](./nlp)
 * Reinforcement Learning  
