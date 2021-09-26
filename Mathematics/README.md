@@ -1,3 +1,6 @@
+ML - Best Practices:
+  * [The First Rule of Machine Learning: Start without Machine Learning - Eugene Yan](https://eugeneyan.com/writing/first-rule-of-ml/)
+  
 ML-Theory:
   * [How Backpropogation Works - Brandon Rohrer](https://www.youtube.com/watch?v=6BMwisTZFr4)
   
