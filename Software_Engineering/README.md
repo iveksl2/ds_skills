@@ -32,6 +32,7 @@ Debugging:
 Perfomance:
   * Python:
     * [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)
+    * [Examining runtime with timeit - DataCamp](https://campus.datacamp.com/courses/writing-efficient-python-code/timing-and-profiling-code?ex=1)
 
 Commandline & Bash
   * [The Art of Command Line - Josh Levy](https://github.com/jlevy/the-art-of-command-line#basics)
