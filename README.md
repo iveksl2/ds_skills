@@ -25,6 +25,6 @@ Advanced
 * [NLP](./nlp)
 * Reinforcement Learning  
 * Deep Learning 
-    * Image
+* [Image](./image)
 * Generative Models
 
