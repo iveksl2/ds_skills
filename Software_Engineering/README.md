@@ -1,7 +1,4 @@
-[Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6)
-
-Misc:
-  * [List of Command-Line Tools](https://datascienceatthecommandline.com/2e/list-of-command-line-tools.html) from [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/chapter-1-introduction.html) by Jeroen Janssens
+[Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6) these are language agnostic guidelines
   
 **Language Fatures**:
   * Python: 
@@ -39,5 +36,4 @@ Perfomance:
 
 Commandline & Bash
   * [The Art of Command Line - Josh Levy](https://github.com/jlevy/the-art-of-command-line#basics)
-  * [Data Science at the Command Line - Jeroen Janssens](https://www.datascienceatthecommandline.com/) 
-
+  * [List of Command-Line Tools](https://datascienceatthecommandline.com/2e/list-of-command-line-tools.html) from [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/chapter-1-introduction.html) by Jeroen Janssens
