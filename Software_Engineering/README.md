@@ -1,6 +1,9 @@
 [Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6)
 
-Language Fatures:
+Misc:
+  * [List of Command-Line Tools](https://datascienceatthecommandline.com/2e/list-of-command-line-tools.html) from [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/chapter-1-introduction.html) by Jeroen Janssens
+  
+**Language Fatures**:
   * Python: 
     * [list comprehension](https://www.youtube.com/watch?v=belS2Ek4-ow)
     * [Using Python's Type Annotations](https://dev.to/dstarner/using-pythons-type-annotations-4cfe)
