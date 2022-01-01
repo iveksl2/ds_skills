@@ -18,7 +18,7 @@ Fundamentals:
     * Model
     * [Communicate](./communicate)
  
-Advanced
+Sub-Topics:
 * Bayesian Statistics
 * [Optimization](./optimization)
 * [Time Series](./time_series)
@@ -27,4 +27,5 @@ Advanced
 * Deep Learning 
 * [Image](./image)
 * Generative Models
+* [Survival Models](./survival_models)
 
