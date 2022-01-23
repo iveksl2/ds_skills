@@ -7,7 +7,7 @@ DS Definition              |  Pipeline                |  AI Hierarchy of Needs  
 [Best Practices](./best_practices)
 
 Fundamentals:
-* [Mathematics & Statistics](Mathematics)
+* [Mathematics & Statistics](math_and_stats)
 * [Software Engineering](Software_Engineering)
 * [Domain Knowledge](./domain_knowledge)
 * Pipeline
