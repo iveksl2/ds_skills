@@ -1,3 +1,8 @@
+**DataPrep & SQL**
+  * [Why Google Treats SQL Like Code and You Should Too](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e)
+ 
+**Tidy**
+
 Datasets structered in a [tidy format](http://vita.had.co.nz/papers/tidy-data.pdf) provide a standerdized way to format the data for analysis 
 
  * Benefits: 
