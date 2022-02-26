@@ -4,6 +4,9 @@ DS Definition              |  Pipeline                |  AI Hierarchy of Needs  
 :-------------------------:|:-------------------------:|:-------------------------:
 ![ds_venn_diagram](./images/ds_venn_diagram.png)  |  ![pipeline](./images/hadley_wickham_pipeline.png)  |  ![pipeline](./images/ai_hierarchy_of_needs.png)|
 
+We live in the precipice of a goldan age of education. 
+ * Fantastic resource with [BOOKDOWN](https://bookdown.org/) of free open wiki technical books. Remember to make a contribution to authors 
+
 [Best Practices](./best_practices)
 
 Fundamentals:
