@@ -7,7 +7,7 @@ DS Definition              |  Pipeline                |  AI Hierarchy of Needs  
 
 We live in the precipice of a golden age of education:
 
-One can create open wiki books with [bookdown](https://github.com/rstudio/bookdown) or [jupyter_book](https://jupyterbook.org/intro.html) ([gallery](https://executablebooks.org/en/latest/gallery.html)). *Remember to make a contribution to authors*
+One can create open wiki books with [bookdown](https://github.com/rstudio/bookdown)([gallery](https://bookdown.org/)) or [jupyter_book](https://jupyterbook.org/intro.html) ([gallery](https://executablebooks.org/en/latest/gallery.html)). *Remember to make a contribution to authors*
 
 ---
 **DataScience**
