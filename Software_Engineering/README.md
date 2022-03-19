@@ -40,4 +40,8 @@ Commandline & Bash
 
 Tools:
   * Notebooks:
-    * Using Colab in R -> link://colab.research.google.com/notebook#create=true&language=r shorthand is colab.to/r . [Stack Overflow](https://stackoverflow.com/questions/54595285/how-to-use-r-with-google-colaboratory). Or `%load_ext rpy2.ipython` and use `%%R` for R cells
+    * Using Colab in R
+      * Shorthand: `colab.to/r`. Longer: `link://colab.research.google.com/notebook#create=true&language=r` . [Stack Overflow](https://stackoverflow.com/questions/54595285/how-to-use-r-with-google-colaboratory). 
+      * Or `%load_ext rpy2.ipython` and use `%%R` for R cells
+    * [Playing Videos on Google Colab](https://stackoverflow.com/questions/52050860/playing-videos-on-google-colab) 
+      * `from IPython.display import YouTubeVideo; YouTubeVideo('-ncJV0tMAjE')` <- After the `watch?v=` 
