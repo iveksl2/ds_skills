@@ -17,6 +17,5 @@ Sick Reference:
   * [Papers With Code](https://portal.paperswithcode.com/)
 
 
-Many of the R statistical notebooks are from the [Improving your statistical inferences](https://www.coursera.org/learn/statistical-inf
-  erences) class by  Daniel Lakens 
+Many of the R statistical notebooks are from the [Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences) class by  Daniel Lakens 
 
