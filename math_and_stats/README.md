@@ -1,3 +1,7 @@
+
+
+Many of the R statistical notebooks are from the [Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences) class by  Daniel Lakens 
+
 ML - Best Practices:
   * [The First Rule of Machine Learning: Start without Machine Learning - Eugene Yan](https://eugeneyan.com/writing/first-rule-of-ml/)
   
@@ -15,3 +19,5 @@ Stats:
 
 Sick Reference:
   * [Papers With Code](https://portal.paperswithcode.com/)
+
+
