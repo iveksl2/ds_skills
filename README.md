@@ -38,3 +38,6 @@ Sub-Topics:
 * Generative Models
 * [Survival Models](./survival_models)
 
+---
+Other Repositories that do this better:
+  * [data-science-topics](https://khuyentran1401.github.io/Data-science/) & [github](https://github.com/khuyentran1401/Data-science#data-science-portfolio) - Khuyen Tran
