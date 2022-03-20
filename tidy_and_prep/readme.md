@@ -1,5 +1,6 @@
 **DataPrep & SQL**
   * [Why Google Treats SQL Like Code and You Should Too](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e)
+    * Ex: [Google Trends Sample Queries](https://gist.github.com/leighajarett/aa99b58abb75b0ae6f7ae84b5f979971)
  
 **Tidy**
 
