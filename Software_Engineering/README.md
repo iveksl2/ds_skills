@@ -8,6 +8,7 @@
           
 Readibility:
   * [How do you write readable code?: 13 Principles - Peter Hurford](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
+  * [Explaining Intent - Roger Maza](https://www.linkedin.com/posts/rogermaza_softwareengineering-coding-softwaredesign-activity-6909903006117298176--2PO/?utm_source=linkedin_share&utm_medium=member_desktop_web)
   * Use a style guide:
     * Python:
       * [How to write Python code with PEP8 - realpython](https://realpython.com/python-pep8/)
