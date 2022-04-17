@@ -1,4 +1,4 @@
-**Galleries & Principles**:
+**Principles & Galleries**:
   * [Ten Simple Rules for Better Figures - Nicolas Rougier et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
   * [from Data to Viz](https://www.data-to-viz.com/)
     * [The R Graph Gallery](https://www.r-graph-gallery.com/)
@@ -7,7 +7,8 @@
       * [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
       * [matplotlib Gallery](https://matplotlib.org/3.1.1/gallery/index.html)
       * [80 Python plot examples with code - kaggle notebook](https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step)
-   
+    * [Randy Olson Examples](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/pct-bachelors-degrees-conferred-women-usa/Percentage%20of%20Bachelor%E2%80%99s%20degrees%20conferred%20to%20women%20in%20the%20US%2C%20by%20major.ipynb)
+      
 
 **Plotting Libraries**
   * *Python*
