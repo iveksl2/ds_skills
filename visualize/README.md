@@ -24,7 +24,11 @@
       * [Plotly accepts wide dataframes](https://medium.com/plotly/beyond-tidy-plotly-express-now-accepts-wide-form-and-mixed-form-data-bdc3e054f891)
   * *R* :
     * [ggplot2](https://github.com/tidyverse/ggplot2)
-      * [ggplot2 functionality](https://www.r-graph-gallery.com/ggplot2-package.html)
+      * 3 best visualization resources recommended by [Matt Dancho](https://github.com/mdancho84)
+        * [ggplot2 tutorial for beautiful plotting - Cedrec Scherer](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) <- Best ggplot2 tutorial
+        * [Data Visualization with R - Rob Kabacoff](https://drive.google.com/file/d/1o2dVYil4Gc_dDYXjertvPgc6n0zp6MHN/view)
+        * [Fundamentals of Data Visualization - Claus O Wilke](https://clauswilke.com/dataviz/)
+      * [ggplot2 gallery from graph-gallery](https://www.r-graph-gallery.com/ggplot2-package.html) <- more conceptual
       * [data visualization - R for datascience](https://r4ds.had.co.nz/data-visualisation.html)
       * [Graphics for communication](https://r4ds.had.co.nz/graphics-for-communication.html)
    
