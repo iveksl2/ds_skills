@@ -1,4 +1,6 @@
-[Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6) these are language agnostic guidelines
+[Software Engineering at Google - Lessons Learned](https://abseil.io/resources/swe-book/html/toc.html) <div>
+[Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6) 
+  * These are language agnostic guidelines
   
 **Language Fatures**:
   * Python: 
