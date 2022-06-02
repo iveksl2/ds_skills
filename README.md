@@ -42,3 +42,4 @@ Sub-Topics:
 ---
 Other Repositories that do this better:
   * [data-science-topics](https://khuyentran1401.github.io/Data-science/) & [github](https://github.com/khuyentran1401/Data-science#data-science-portfolio) - Khuyen Tran
+  * [applied-ml](https://github.com/eugeneyan/applied-ml) Eugene Yan
