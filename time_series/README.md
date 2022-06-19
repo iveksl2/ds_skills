@@ -1,3 +1,6 @@
+[Stop Aggregating Away Signals in your time series Data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
+  * Aggregating noisy data is sometimes necessary, but don't lazily do it without additional investigation 
+  
 [Microsoft Time Series Best Practices](https://github.com/microsoft/forecasting)
 
 R:
