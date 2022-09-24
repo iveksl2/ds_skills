@@ -1,7 +1,9 @@
-[Algorithms & Data Structures - Ashfine & Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts)
-[Software Engineering at Google - Lessons Learned](https://abseil.io/resources/swe-book/html/toc.html) <div>
-[Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6) 
-  * These are language agnostic guidelines
+These are language agnostic guidelines: 
+  * [Algorithms & Data Structures - Ashfine & Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts)
+  * [Software Engineering at Google - Lessons Learned](https://abseil.io/resources/swe-book/html/toc.html) 
+  * [Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6) 
+    
+    
   
 **Language Fatures**:
   * Python: 
@@ -49,3 +51,7 @@ Tools:
       * Or `%load_ext rpy2.ipython` and use `%%R` for R cells
     * [Playing Videos on Google Colab](https://stackoverflow.com/questions/52050860/playing-videos-on-google-colab) 
       * `from IPython.display import YouTubeVideo; YouTubeVideo('-ncJV0tMAjE')` <- After the `watch?v=` 
+      
+      
+Tips & Tricks:
+  * Open VSCdoe from Terminal -> Commdand + Shift + p -> Install Code in Command Path 
