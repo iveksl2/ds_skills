@@ -17,7 +17,7 @@ One can create open wiki books with [bookdown](https://github.com/rstudio/bookdo
 
 Fundamentals:
 * [Mathematics & Statistics](math_and_stats)
-* [Software Engineering](./software_engineering)
+* [Software Engineering](./Software_Engineering)
 * [Domain Knowledge](./domain_knowledge)
 * Pipeline
     * [Import](./import_and_prep)
