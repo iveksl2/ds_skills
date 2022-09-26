@@ -42,5 +42,5 @@ Sub-Topics:
 ---
 Other Repositories that do this better:
   * [data-science-topics](https://khuyentran1401.github.io/Data-science/) & [github](https://github.com/khuyentran1401/Data-science#data-science-portfolio) - Khuyen Tran
-  * [applied-ml](https://github.com/eugeneyan/applied-ml) Eugene Yan
+  * [applied-ml github](https://github.com/eugeneyan/applied-ml) & [applied-ml website papers](https://applyingml.com/papers/) - Eugene Yan
   * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) - Very hit or miss with random guest lecturers <Storing> 
