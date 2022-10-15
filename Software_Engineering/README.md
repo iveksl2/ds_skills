@@ -43,6 +43,7 @@ Perfomance:
 Commandline & Bash
   * [List of Command-Line Tools](https://datascienceatthecommandline.com/2e/list-of-command-line-tools.html) from [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/chapter-1-introduction.html) by Jeroen Janssens
   * [The Art of Command Line - Josh Levy](https://github.com/jlevy/the-art-of-command-line#basics)
+  * [Bash scripting cheatsheet](https://devhints.io/bash)
 
 Tools:
   * Notebooks:
