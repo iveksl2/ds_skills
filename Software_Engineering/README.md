@@ -2,6 +2,7 @@ These are language agnostic guidelines:
   * [Algorithms & Data Structures - Ashfine & Shervine Amidi](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts)
   * [Software Engineering at Google - Lessons Learned](https://abseil.io/resources/swe-book/html/toc.html) 
   * [Write Better Python Functions - Jeff Knupp](https://medium.com/hackernoon/write-better-python-functions-c3a9a36382a6) 
+  * [Good data scientists write good code - Sergey Mastitsky](https://towardsdatascience.com/good-data-scientists-write-good-code-28352a826d1f)
     
     
   
