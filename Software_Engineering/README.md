@@ -47,6 +47,8 @@ Commandline & Bash
   * [Bash scripting cheatsheet](https://devhints.io/bash)
 
 Tools:
+  * Git:
+    * [The Perfect Commit - Simon Willison](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
   * Notebooks:
     * Using Colab in R
       * Shorthand: `colab.to/r`. Longer: `link://colab.research.google.com/notebook#create=true&language=r` . [Stack Overflow](https://stackoverflow.com/questions/54595285/how-to-use-r-with-google-colaboratory). 
