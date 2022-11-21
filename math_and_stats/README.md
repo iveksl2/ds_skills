@@ -21,3 +21,4 @@ Sick Reference:
   * [Papers With Code](https://portal.paperswithcode.com/)
 
 
+* [Neural Networks from Scratch - Sentdex](https://github.com/Sentdex/nnfs_book)
