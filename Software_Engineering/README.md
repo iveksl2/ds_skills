@@ -55,7 +55,10 @@ Tools:
       * Or `%load_ext rpy2.ipython` and use `%%R` for R cells
     * [Playing Videos on Google Colab](https://stackoverflow.com/questions/52050860/playing-videos-on-google-colab) 
       * `from IPython.display import YouTubeVideo; YouTubeVideo('-ncJV0tMAjE')` <- After the `watch?v=` 
-      
+
+Devops:
+  * [Docker - Getting started](https://docs.docker.com/get-started/). A good way to learn about docker is from the docker core docs. [Noah Gift & Pragmatic Labs](https://www.youtube.com/watch?v=uipJQq4fYPI) have some good content orientated toward data science. 
+  
       
 Tips & Tricks:
   * Open VSCdoe from Terminal -> Commdand + Shift + p -> Install Code in Command Path 
