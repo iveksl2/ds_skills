@@ -58,6 +58,8 @@ Tools:
 
 Devops:
   * [Docker - Getting started](https://docs.docker.com/get-started/). A good way to learn about docker is from the docker core docs. [Noah Gift & Pragmatic Labs](https://www.youtube.com/watch?v=uipJQq4fYPI) have some good content orientated toward data science. 
+  * Kubernetes
+    * [Kubernetes-Study-Guide](https://github.com/Sher-Chowdhury/Kubernetes-Study-Guide)
   
       
 Tips & Tricks:
