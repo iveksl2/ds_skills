@@ -14,3 +14,6 @@ Datasets structered in a [tidy format](http://vita.had.co.nz/papers/tidy-data.pd
      * [Visualizing Pandas Pivoting and Reshaping Functions](http://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
   * R
     * [Tidy data - R for datascience](https://r4ds.had.co.nz/tidy-data.html)
+
+**Python**
+  [Melt & Pivot - Rob Mulla](https://www.youtube.com/shorts/ss-I6WAiMFA)

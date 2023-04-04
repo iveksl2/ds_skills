@@ -11,6 +11,8 @@ These are language agnostic guidelines:
     * [list comprehension](https://www.youtube.com/watch?v=belS2Ek4-ow)
     * [Using Python's Type Annotations](https://dev.to/dstarner/using-pythons-type-annotations-4cfe)
     * [Data Classes in Python 3.7+ (Guide)](https://realpython.com/python-data-classes/)
+    * [Python Lambda Functoins](https://www.youtube.com/shorts/ss-I6WAiMFA)
+        * Ability to write anonymous functions with less lines of code. Typically 1 use case
           
 Readibility:
   * [How do you write readable code?: 13 Principles - Peter Hurford](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
