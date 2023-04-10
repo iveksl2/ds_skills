@@ -38,6 +38,7 @@ Sub-Topics:
 * Deep Learning 
 * [Image](./image)
 * Generative Models
+* [Simulation](./simulation)
 * [Survival Models](./survival_models)
 * [Misc](./misc)
 
