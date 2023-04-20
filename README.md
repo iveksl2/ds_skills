@@ -1,3 +1,6 @@
+**Update** This will be converted into a longer form book [DS Principles & Resources - Igor V](https://github.com/iveksl2/ds_book) using [Quarto Books](https://quarto.org/docs/books/) & [NBDev](https://nbdev.fast.ai/). <br> Go there for a deeper undersanding. This is a collection of my own scripts for my own benefit
+
+
 <img src="./images/Isaac_Newton_Quote.png" alt="drawing" width="350" height="210"/>
 
 DS Definition              |  Pipeline                |  AI Hierarchy of Needs       |
@@ -9,7 +12,7 @@ We live in the precipice of a golden age of education:
 
 One can create open wiki books with [bookdown](https://github.com/rstudio/bookdown)([gallery](https://bookdown.org/)) or [jupyter_book](https://jupyterbook.org/intro.html) ([gallery](https://executablebooks.org/en/latest/gallery.html)). *Remember to make a contribution to authors*
 
-**Update** This will be converted into a longer form book [here](https://github.com/iveksl2/ds_book) using [Quarto Books](https://quarto.org/docs/books/) & [NBDev](https://nbdev.fast.ai/)
+
 
 ---
 **DataScience**
