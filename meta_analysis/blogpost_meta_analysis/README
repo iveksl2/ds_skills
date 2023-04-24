@@ -1,0 +1,11 @@
+These 2 scripts will generate a wordcloud on pubmed abstracts. First load in the wordcloud function and then run abstracts_wordcloud.R. meta_analysis.R will create a forrest & funnel plot from the attached dataset. 
+
+Links:
+  * Ebook on doing meta-analysis in R: https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/ 
+  * Youtube clip showing how to use pubmed with R: https://www.youtube.com/watch?v=5BttFrkCcKA
+
+
+Feedback from Sally: 
+	
+MeSH Terms. 
+Be conscious of the hierarchy that make up a meta anslsis. Clinical trials as the gold standard vs case control, vs cohort vs animal studies
