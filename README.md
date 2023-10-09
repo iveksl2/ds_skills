@@ -44,6 +44,7 @@ Sub-Topics:
 * [Simulation](./simulation)
 * [Survival Models](./survival_models)
 * [meta_analysis](./meta_analysis)
+* [causal](./causal)
 * [Misc](./misc)
 
 ---
